@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercise 3</string>
+
+    <string-array name="age">
+        <item>16 and below</item>
+        <item>17-25</item>
+        <item>26-30</item>
+        <item>31-40</item>
+        <item>41-55</item>
+        <item>56 and above</item>
+    </string-array>
+</resources>
